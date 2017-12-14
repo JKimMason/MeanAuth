@@ -1,0 +1,19 @@
+{
+  "name": "meanauth",
+  "version": "1.0.0",
+  "description": "MEAN Stack authentication application",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JKimMason/MeanAuth.git"
+  },
+  "author": "J. Kim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JKimMason/MeanAuth/issues"
+  },
+  "homepage": "https://github.com/JKimMason/MeanAuth#readme"
+}
