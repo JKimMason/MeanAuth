@@ -15,8 +15,12 @@
     "express": "*",
     "mongoose": "*",
     "bcryptjs": "*",
-    ""
-  }
+    "cors": "*",
+    "jsonwebtoken": "*",
+    "body-parser": "*",
+    "passport": "*",
+    "passport-jwt": "*"
+},
   "author": "J. Kim",
   "license": "ISC",
   "bugs": {
