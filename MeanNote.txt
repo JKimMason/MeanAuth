@@ -1,2 +1,6 @@
 $ sudo service mongod start
 	- Start mongo server
+
+
+- Installed nodemon
+	- To refresh server

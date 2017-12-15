@@ -11,7 +11,7 @@
     "type": "git",
     "url": "git+https://github.com/JKimMason/MeanAuth.git"
   },
-  "dependencies":{
+  "dependencies": {
     "express": "*",
     "mongoose": "*",
     "bcryptjs": "*",
@@ -20,7 +20,7 @@
     "body-parser": "*",
     "passport": "*",
     "passport-jwt": "*"
-},
+  },
   "author": "J. Kim",
   "license": "ISC",
   "bugs": {
